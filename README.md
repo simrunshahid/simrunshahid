@@ -20,5 +20,5 @@ I am a results-driven Data Analyst passionate about turning complex customer tra
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [://linkedin.com](www.linkedin.com/in/simrunshahid/)
+* **LinkedIn:** (www.linkedin.com/in/simrunshahid/)
 * **Email:** simrunshahid@hotmail.com
