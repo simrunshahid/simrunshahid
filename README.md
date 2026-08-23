@@ -13,12 +13,12 @@ I am a results-driven Data Analyst passionate about turning complex customer tra
 ---
 
 ### 🚀 Featured Project
-#### [Cyclistic Bikeshare Consumer Behavior Case Study](https://github.com)
+#### [Cyclistic Bikeshare Consumer Behavior Case Study](https://github.com/simrunshahid/cyclistic-bikeshare-case-study)
 * **What I did:** Processed and aggregated over 1 million raw user trip records using SQL and Python to isolate usage patterns between annual subscribers and casual riders.
 * **The Impact:** Built a dynamic Tableau dashboard translating raw analytical insights into a clear user-retention strategy.
 
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/in/simrunshahid)
 * **Email:** simrunshahid@hotmail.com
